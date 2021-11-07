@@ -1,1 +1,1 @@
-# projet-info-maths
+# projet-info-maths de Guillaume Taret et Anthony Caillaud
